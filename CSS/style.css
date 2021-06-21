@@ -3,6 +3,11 @@ body{
     margin:0%;
 }
 
+h4{
+    color: #141b41;
+    font-weight: bold;
+}
+
 /* Header */
 .HeaderBgColor{
     background-color: rgb(255, 241, 219);
@@ -31,9 +36,26 @@ body{
     box-shadow: 0px -1px 10px 5px rgba(224, 224, 224, 0.75);
 }
 
-
+/* 2nd Section */
 .Product_Card_Sec2{
     border-radius: 2%;
     box-shadow: 0px -1px 10px 5px #eeeeee5d; 
     border-color: rgb(255, 255, 255);
+}
+
+
+/* 3rd Section */
+.Last_ScetionImg{
+    width:90%;
+    height: 90%;
+}
+
+.Last_SecIcon{
+    width: 80%;
+    height: 90%;
+}
+.Product_Card_Sec3{
+    border-radius: 2%;
+    box-shadow: 0px -1px 10px 5px #eeeeee5d; 
+    border-color: rgb(255, 255, 255); 
 }
