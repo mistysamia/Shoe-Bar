@@ -3,11 +3,31 @@ body{
     margin:0%;
 }
 
+/* Header */
 .HeaderBgColor{
     background-color: rgb(255, 241, 219);
 }
-
 .Heading_Line{
     font-size: 50px;
     font-weight: bold;
+}
+.Heading_Button{
+    margin-bottom: 10%;
+}
+
+
+/* 1st Section */
+
+.Product_Card{
+    border-radius: 2%;
+    box-shadow: 0px -1px 10px 5px rgba(216, 216, 216, 0.75);
+}
+.Product_Img{
+    background-color: rgb(228, 228, 228); 
+    width: 85%; 
+    height: 10%; 
+    border-radius:1%;  
+    margin: 2% ;
+    margin-left: 7%;
+    box-shadow: 0px -1px 10px 5px rgba(224, 224, 224, 0.75);
 }
