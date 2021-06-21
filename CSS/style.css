@@ -18,16 +18,22 @@ body{
 
 /* 1st Section */
 
-.Product_Card{
+.Product_Card_Sec1{
     border-radius: 2%;
     box-shadow: 0px -1px 10px 5px rgba(216, 216, 216, 0.75);
 }
 .Product_Img{
     background-color: rgb(228, 228, 228); 
     width: 85%; 
-    height: 10%; 
     border-radius:1%;  
     margin: 2% ;
     margin-left: 7%;
     box-shadow: 0px -1px 10px 5px rgba(224, 224, 224, 0.75);
+}
+
+
+.Product_Card_Sec2{
+    border-radius: 2%;
+    box-shadow: 0px -1px 10px 5px #eeeeee5d; 
+    border-color: rgb(255, 255, 255);
 }
