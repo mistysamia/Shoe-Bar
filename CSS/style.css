@@ -46,14 +46,10 @@ h4{
 
 /* 3rd Section */
 .Last_ScetionImg{
-    width:90%;
-    height: 90%;
+    width:100%;
+    height: 100%;
 }
 
-.Last_SecIcon{
-    width: 80%;
-    height: 90%;
-}
 .Product_Card_Sec3{
     border-radius: 2%;
     box-shadow: 0px -1px 10px 5px #eeeeee5d; 
