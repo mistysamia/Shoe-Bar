@@ -7,10 +7,14 @@ h4{
     color: #141b41;
     font-weight: bold;
 }
+h5{
+    color: #141b41;
+}
+
 
 /* Header */
 .HeaderBgColor{
-    background-color: rgb(255, 241, 219);
+    background-color: #fff1db;
 }
 .Heading_Line{
     font-size: 50px;
@@ -25,22 +29,22 @@ h4{
 
 .Product_Card_Sec1{
     border-radius: 2%;
-    box-shadow: 0px -1px 10px 5px rgba(216, 216, 216, 0.75);
+    box-shadow: 0px -1px 10px 5px #d8d8d8bf;
 }
 .Product_Img{
-    background-color: rgb(228, 228, 228); 
+    background-color: #e4e4e4; 
     width: 85%; 
     border-radius:1%;  
     margin: 2% ;
     margin-left: 7%;
-    box-shadow: 0px -1px 10px 5px rgba(224, 224, 224, 0.75);
+    box-shadow: 0px -1px 10px 5px #e0e0e0bf;
 }
 
 /* 2nd Section */
 .Product_Card_Sec2{
     border-radius: 2%;
     box-shadow: 0px -1px 10px 5px #eeeeee5d; 
-    border-color: rgb(255, 255, 255);
+    border-color: #ffffff;
 }
 
 
@@ -53,5 +57,17 @@ h4{
 .Product_Card_Sec3{
     border-radius: 2%;
     box-shadow: 0px -1px 10px 5px #eeeeee5d; 
-    border-color: rgb(255, 255, 255); 
+    border-color: #ffffff; 
+}
+.third_Sec{
+    margin-bottom: 11%;
+}
+
+
+/* Footer */
+
+.footer{
+    
+
+   
 }
